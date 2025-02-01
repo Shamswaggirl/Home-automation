@@ -1,0 +1,9 @@
+Coding to install the Mosquitto
+$ sudo apt update
+$sudo apt install mosquitto mosquitto-clients  
+Coding to set a password for MQTT box
+$sudo mosquitto_passwd -c /etc/mosquitto/passwd xxxx
+$sudo nano /etc/mosquitto/conf.d/default.conf
+$allow_anonymous false
+$password_file /etc/mosquitto/passwd
+$sudo systemctl restart mosquito
