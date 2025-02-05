@@ -72,5 +72,5 @@ We welcome contributions! Feel free to submit pull requests or open issues for e
 This project is licensed under the **MIT License**.
 
 ## Contact
-For any queries or collaboration opportunities, reach out via [GitHub Issues](https://github.com/your-repo/issues).
+For any queries or collaboration opportunities, reach out via [GitHub Issues].
 
